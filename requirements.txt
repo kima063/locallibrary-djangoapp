@@ -9,5 +9,5 @@ psycopg2-binary==2.8.6
 Pillow >= 8.0
 cloudinary==1.25.0
 django-cloudinary-storage==0.2.3
-django-utils-six== 3.0
+django-utils-six== 2.0
 python-decouple==3.1
