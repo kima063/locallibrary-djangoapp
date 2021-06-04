@@ -164,7 +164,6 @@ Thumbs.db
 # Database
 # *.sqlite3
 
-locallibrary/static
 staticfiles
-static
+
 # End of https://www.toptal.com/developers/gitignore/api/django
