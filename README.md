@@ -1,5 +1,6 @@
 Django Local Library
 ---------------------------------------------------------------------------------------------------------------------------
+My Project is published at https://local-library-django-app.herokuapp.com/catalog/ the client site and the admin site https://local-library-django-app.herokuapp.com/admin/
 For detailed information about this project go to this link: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website
 --------------------------------------------------------------------------------------------------------------------------
 Setting up a Django development environment
